@@ -23,7 +23,7 @@ $(function () {
 });
 
 $('p').on( 'click', function () {
-    alert("Quelqu'un a cliqué sur un paragraphe!")
+    alert("Paragraph clicked!!")
 });
 
-/*jQuery selectors : https://www.w3schools.com/jquery/trysel.asp*/
+/*test jQuery selectors on: https://www.w3schools.com/jquery/trysel.asp*/
