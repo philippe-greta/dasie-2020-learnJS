@@ -9,7 +9,7 @@ element.addEventListener('click', function() {
 /*preventDefault*/
 let element = document.getElementById('myLink');
 element.addEventListener('click', function(event) {
-    event.preventDefault();   
+    //event.preventDefault();   
     element.textContent = "Click!";
 });
 

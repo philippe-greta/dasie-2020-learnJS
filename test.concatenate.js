@@ -1,7 +1,6 @@
 /*
 
 Concaténation
-
 */
 
 let myString = 'Hello';

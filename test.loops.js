@@ -15,7 +15,7 @@ for (let i = 0; i < chats.length; i++) {
   info += chats[i] + ', ';
   console.log(chats[i]);
 }
-
+//  console.log(info + chats.join(", ") + ".");
 console.log(info);
 
 /*For and if*/

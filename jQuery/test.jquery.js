@@ -1,4 +1,4 @@
-/*vanilla avascript*/
+/*vanilla javascript*/
 let listItems = document.querySelectorAll('li');
 let i;
 for (i = 0; i < listItems.length; i++) {
